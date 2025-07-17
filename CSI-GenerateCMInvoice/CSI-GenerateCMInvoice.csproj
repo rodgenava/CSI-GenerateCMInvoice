@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>dotnet-CSI_GenerateCMInvoice-eeb9e717-a4a1-4272-9181-752e85994a7f</UserSecretsId>
+    <RootNamespace>CSI_GenerateCMInvoice</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.36" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+    <PackageReference Include="Serilog" Version="4.3.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="6.0.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GenerateCMInvoice.Application\GenerateCMInvoice.Application.csproj" />
+    <ProjectReference Include="..\GenerateCMInvoice.Domain\GenerateCMInvoice.Domain.csproj" />
+    <ProjectReference Include="..\GenerateCMInvoice.Infrastructure\GenerateCMInvoice.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

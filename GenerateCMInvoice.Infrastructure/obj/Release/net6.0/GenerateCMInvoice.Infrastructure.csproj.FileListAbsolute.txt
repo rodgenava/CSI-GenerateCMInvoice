@@ -1,0 +1,15 @@
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\bin\Release\net6.0\GenerateCMInvoice.Infrastructure.deps.json
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\bin\Release\net6.0\GenerateCMInvoice.Infrastructure.dll
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\bin\Release\net6.0\GenerateCMInvoice.Infrastructure.pdb
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\bin\Release\net6.0\GenerateCMInvoice.Domain.dll
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\bin\Release\net6.0\GenerateCMInvoice.Domain.pdb
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\obj\Release\net6.0\GenerateCMInvoice.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\obj\Release\net6.0\GenerateCMInvoice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\obj\Release\net6.0\GenerateCMInvoice.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\obj\Release\net6.0\GenerateCMInvoice.Infrastructure.AssemblyInfo.cs
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\obj\Release\net6.0\GenerateCMInvoice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\obj\Release\net6.0\Generate.AB92F393.Up2Date
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\obj\Release\net6.0\GenerateCMInvoice.Infrastructure.dll
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\obj\Release\net6.0\refint\GenerateCMInvoice.Infrastructure.dll
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\obj\Release\net6.0\GenerateCMInvoice.Infrastructure.pdb
+C:\Users\rnava\MyProject\CSI roject\Jobs\CSI-GenerateCMInvoice\GenerateCMInvoice.Infrastructure\obj\Release\net6.0\ref\GenerateCMInvoice.Infrastructure.dll

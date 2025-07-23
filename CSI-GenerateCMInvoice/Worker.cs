@@ -59,7 +59,7 @@ namespace CSI_GenerateCMInvoice
                         // Step 2: Execute stored procedure for each valid transaction and generate corresponding file
                         await storedProcedureService.ExecuteAndGenerateFile(cycleLogger, validTrans);
                     }
-                    //test
+
                     const string procedureMessage = "Stored procedure successfully executed.";
                     _logger.LogInformation(procedureMessage);
                     cycleLogger.Information(procedureMessage);

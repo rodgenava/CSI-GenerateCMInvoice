@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSI-GenerateCMInvoice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feec6f5ba7b475443717ae6eae01c21d3f8e5133")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSI-GenerateCMInvoice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSI-GenerateCMInvoice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

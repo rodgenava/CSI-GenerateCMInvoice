@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|c:\\users\\rnava\\myproject\\csi roject\\jobs\\csi-generatecminvoice\\csi-generatecminvoice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|solutionrelative:csi-generatecminvoice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|c:\\users\\rnava\\myproject\\csi roject\\jobs\\csi-generatecminvoice\\csi-generatecminvoice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|solutionrelative:csi-generatecminvoice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F04A52A-6850-4AC5-8C80-13BAC3AA1DFA}|GenerateCMInvoice.Application\\GenerateCMInvoice.Application.csproj|c:\\users\\rnava\\myproject\\csi roject\\jobs\\csi-generatecminvoice\\generatecminvoice.application\\configuration\\datesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F04A52A-6850-4AC5-8C80-13BAC3AA1DFA}|GenerateCMInvoice.Application\\GenerateCMInvoice.Application.csproj|solutionrelative:generatecminvoice.application\\configuration\\datesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|c:\\users\\rnava\\myproject\\csi roject\\jobs\\csi-generatecminvoice\\csi-generatecminvoice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|solutionrelative:csi-generatecminvoice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|c:\\users\\rnava\\myproject\\csi roject\\jobs\\csi-generatecminvoice\\csi-generatecminvoice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|solutionrelative:csi-generatecminvoice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|c:\\users\\rnava\\myproject\\csi roject\\jobs\\csi-generatecminvoice\\csi-generatecminvoice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F04A52A-6850-4AC5-8C80-13BAC3AA1DFA}|GenerateCMInvoice.Application\\GenerateCMInvoice.Application.csproj|c:\\users\\rnava\\myproject\\csi roject\\jobs\\csi-generatecminvoice\\generatecminvoice.application\\interfaces\\icmtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F04A52A-6850-4AC5-8C80-13BAC3AA1DFA}|GenerateCMInvoice.Application\\GenerateCMInvoice.Application.csproj|solutionrelative:generatecminvoice.application\\interfaces\\icmtransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|c:\\users\\rnava\\myproject\\csi roject\\jobs\\csi-generatecminvoice\\csi-generatecminvoice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|solutionrelative:csi-generatecminvoice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DA22A14-0326-47DD-8381-3C8CCEF4FB4C}|CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice.csproj|c:\\users\\rnava\\myproject\\csi roject\\jobs\\csi-generatecminvoice\\csi-generatecminvoice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 25,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DateSettings.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Application\\Configuration\\DateSettings.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Application\\Configuration\\DateSettings.cs",
@@ -167,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FileService.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Application\\Services\\FileService.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Application\\Services\\FileService.cs",
@@ -175,12 +175,11 @@
               "RelativeToolTip": "GenerateCMInvoice.Application\\Services\\FileService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T07:14:45.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T07:14:45.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice\\Program.cs",
               "RelativeDocumentMoniker": "CSI-GenerateCMInvoice\\Program.cs",
@@ -188,8 +187,7 @@
               "RelativeToolTip": "CSI-GenerateCMInvoice\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:56:36.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T06:56:36.346Z"
             },
             {
               "$type": "Document",
@@ -201,12 +199,11 @@
               "RelativeToolTip": "GenerateCMInvoice.Domain\\GenerateCMInvoice.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T06:26:41.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T06:26:41.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ICmTransactionService.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Application\\Interfaces\\ICmTransactionService.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Application\\Interfaces\\ICmTransactionService.cs",
@@ -214,12 +211,11 @@
               "RelativeToolTip": "GenerateCMInvoice.Application\\Interfaces\\ICmTransactionService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:37:08.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T02:37:08.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CmTransactionService.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Application\\Services\\CmTransactionService.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Application\\Services\\CmTransactionService.cs",
@@ -227,8 +223,7 @@
               "RelativeToolTip": "GenerateCMInvoice.Application\\Services\\CmTransactionService.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAQwBkAAABnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:35:57.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T02:35:57.6Z"
             },
             {
               "$type": "Document",
@@ -256,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ICmTransactionRepository.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Infrastructure\\Interfaces\\ICmTransactionRepository.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Infrastructure\\Interfaces\\ICmTransactionRepository.cs",
@@ -264,12 +259,11 @@
               "RelativeToolTip": "GenerateCMInvoice.Infrastructure\\Interfaces\\ICmTransactionRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:57:47.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T01:57:47.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CmTransactionRepository.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Infrastructure\\Repositories\\CmTransactionRepository.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Infrastructure\\Repositories\\CmTransactionRepository.cs",
@@ -277,12 +271,11 @@
               "RelativeToolTip": "GenerateCMInvoice.Infrastructure\\Repositories\\CmTransactionRepository.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAewB4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:57:26.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T01:57:26.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "StoredProcedureService.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Application\\Services\\StoredProcedureService.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Application\\Services\\StoredProcedureService.cs",
@@ -290,12 +283,11 @@
               "RelativeToolTip": "GenerateCMInvoice.Application\\Services\\StoredProcedureService.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAIwBkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:40:32.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T01:40:32.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IStoredProcedureService.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Application\\Interfaces\\IStoredProcedureService.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Application\\Interfaces\\IStoredProcedureService.cs",
@@ -303,12 +295,11 @@
               "RelativeToolTip": "GenerateCMInvoice.Application\\Interfaces\\IStoredProcedureService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:33:32.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T01:33:32.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IFileService.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Application\\Interfaces\\IFileService.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Application\\Interfaces\\IFileService.cs",
@@ -316,8 +307,7 @@
               "RelativeToolTip": "GenerateCMInvoice.Application\\Interfaces\\IFileService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:32:34.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T01:32:34.743Z"
             },
             {
               "$type": "Document",
@@ -341,8 +331,7 @@
               "RelativeToolTip": "GenerateCMInvoice.Application\\GenerateCMInvoice.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T01:31:03.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T01:31:03.975Z"
             },
             {
               "$type": "Document",
@@ -358,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IStoredProcedureRepository.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Infrastructure\\Interfaces\\IStoredProcedureRepository.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Infrastructure\\Interfaces\\IStoredProcedureRepository.cs",
@@ -366,12 +355,11 @@
               "RelativeToolTip": "GenerateCMInvoice.Infrastructure\\Interfaces\\IStoredProcedureRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T01:17:22.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T01:17:22.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "StoredProcedureRepository.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\GenerateCMInvoice.Infrastructure\\Repositories\\StoredProcedureRepository.cs",
               "RelativeDocumentMoniker": "GenerateCMInvoice.Infrastructure\\Repositories\\StoredProcedureRepository.cs",
@@ -379,12 +367,11 @@
               "RelativeToolTip": "GenerateCMInvoice.Infrastructure\\Repositories\\StoredProcedureRepository.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwBMAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T00:46:22.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T00:46:22.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CSI-GenerateCMInvoice\\appsettings.Development.json",
@@ -397,13 +384,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice\\appsettings.Production.json",
               "RelativeDocumentMoniker": "CSI-GenerateCMInvoice\\appsettings.Production.json",
               "ToolTip": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice\\appsettings.Production.json",
               "RelativeToolTip": "CSI-GenerateCMInvoice\\appsettings.Production.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-23T00:13:27.446Z",
               "EditorCaption": ""
@@ -418,8 +405,7 @@
               "RelativeToolTip": "CSI-GenerateCMInvoice\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-22T23:34:42.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T23:34:42.802Z"
             },
             {
               "$type": "Document",
@@ -435,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Users\\rnava\\MyProject\\CSI roject\\Jobs\\CSI-GenerateCMInvoice\\CSI-GenerateCMInvoice\\Worker.cs",
               "RelativeDocumentMoniker": "CSI-GenerateCMInvoice\\Worker.cs",
@@ -443,8 +429,7 @@
               "RelativeToolTip": "CSI-GenerateCMInvoice\\Worker.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAApwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T07:48:25.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T07:48:25.519Z"
             }
           ]
         }
